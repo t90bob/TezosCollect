@@ -1,8 +1,8 @@
 # Table of contents
 
-* [👋 Welcome to Tezos Collect](README.md)
+* [🐕 DIPE Protocol on Dogecoin](README.md)
 
 ## About
 
-* [❔ What are Tezos Domains?](about/what-are-tezos-domains.md)
+* [🐕 General Rules](about/general-rules.md)
 * [✨ Our Features](about/our-features.md)
